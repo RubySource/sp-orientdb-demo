@@ -9,5 +9,6 @@ mom.add_edge("Family", bobby, "Family", nil, {relation_name: 'parent'})
 mom.add_edge("Family", jane, "Family", nil, {relation_name: 'parent'})
 
 bobby.add_edge("Family", jane, "Family", nil, {relation_name: 'sibling'})
+g.commit
 
 
