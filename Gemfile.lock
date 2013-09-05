@@ -1,0 +1,15 @@
+GIT
+  remote: git://github.com/aemadrid/orientdb-jruby.git
+  revision: c1b7aa67720259104721e853f7725a8c92fdfbe2
+  specs:
+    orientdb (1.5.0-java)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  orientdb!
